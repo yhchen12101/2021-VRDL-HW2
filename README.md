@@ -1,6 +1,6 @@
 # 2021-VRDL-HW2
 
-THis repository contains the code for homework 2 of 2021 Fall Selected Topics in Visual Recognition using Deep Learning.
+This repository contains the code for homework 2 of 2021 Fall Selected Topics in Visual Recognition using Deep Learning.
 
 ## Installation
 ```
